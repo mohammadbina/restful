@@ -1,0 +1,5 @@
+the paragraf for second commit 'base API GET POST PUT DELETE'
+url-> :8000/toys/
+    method -> GET POST
+url-> :8000/toys/{id}/      example: 8000:/toys/2/
+    method -> GET PUT DELETE
